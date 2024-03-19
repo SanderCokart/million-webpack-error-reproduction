@@ -1,0 +1,25 @@
+$ pnpm dlx million@latest
+Packages: +77
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Progress: resolved 78, reused 75, downloaded 2, added 77, done
+┌  ⚡ Million.js 3.0.6
+│
+◇  pnpm detected.
+│
+◇
+│
+◇  The million package did not install, would you like to use the "--legacy-peer-deps" flag?
+│  Yes
+│
+◇  Installed million with pnpm.
+│
+◆  Detected next project.
+│
+◇  Transforming next.config.mjs ─────────╮
+│                                        │
+│  found existing next.config.mjs file.  │
+│                                        │
+├────────────────────────────────────────╯
+│
+└  ✓  You're all set!
+

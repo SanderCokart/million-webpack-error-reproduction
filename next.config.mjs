@@ -6,9 +6,7 @@ const nextConfig = {
 };
 
 const millionConfig = {
-    auto: {
-        rsc: true
-    },// if you're using RSC: auto: { rsc: true },
+    rsc: true
 };
 
 export default million.next(nextConfig, millionConfig);
